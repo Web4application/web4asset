@@ -3,7 +3,6 @@
 // license that can be found in the LICENSE file.
 
 #include "textflag.h"
-
 // Minimax polynomial approximation and other constants
 DATA ·exprodataL22<> + 0(SB)/8, $800.0E+00
 DATA ·exprodataL22<> + 8(SB)/8, $1.0000000000000022e+00
